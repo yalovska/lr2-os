@@ -9,4 +9,4 @@
 
 ## Використання
 ```bash
-./script.sh input.csv
+./script.sh test.csv
