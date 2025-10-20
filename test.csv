@@ -1,0 +1,7 @@
+id,name,tax,amount
+1,Product A,0.1,100
+2,Product B,0.15,200
+3,Product C,invalid,150
+4,Product D,,300
+5,Product E,0.005,400
+6,Product F,1.5,500
